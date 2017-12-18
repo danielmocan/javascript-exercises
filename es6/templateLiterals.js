@@ -1,6 +1,6 @@
 /*
-    1. Please rewrite the fullUrl using template litterals
-    2. Use template litteral to rewrite addAWithB
+    1. Please rewrite the fullUrl using template literals
+    2. Use template literal to rewrite addAWithB
 */
 
 var baseUrl = "example.com";
